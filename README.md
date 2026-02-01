@@ -1,11 +1,10 @@
 # transcription_Bel-Air
 
-Ce dépôt est dmdim à la validation du séminaire [Bibliothèques numériques, I. Gestion de projet (conception, partage, archivage)](https://pgc.unige.ch/main/teachings/details/2025-32M7128?year=2025&fac=default-value).
+Ce dépôt est dédié à la validation du séminaire [Bibliothèques numériques, I. Gestion de projet (conception, partage, archivage)](https://pgc.unige.ch/main/teachings/details/2025-32M7128?year=2025&fac=default-value).
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
 Pour ce projet nous avons utilisé [**eScriptorium**](https://fondue.unige.ch/) pour transcrire 12 pages d'un cahier manuscrit qui en compte 250 environ.
-
 
 ## Manuscrit
 
