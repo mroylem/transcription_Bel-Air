@@ -15,7 +15,7 @@ Et nous avons transcrit les pages 183 à 194.
 
 ## Commentaires
 
-Les commentaires sur la transcription sont consultables [ICI]()
+Les commentaires sur la transcription sont consultables [ICI](https://github.com/mroylem/transcription_Bel-Air/blob/main/Commentaires%20de%20la%20transcription.md)
 
 ## Comment citer
 
