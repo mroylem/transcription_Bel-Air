@@ -1,0 +1,30 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: transcription_Bel-Air
+url: https://github.com/mroylem/transcription_Bel-Air
+authors:
+  - name: Romain
+    surname: Margaron
+    roles:
+      - transcriber
+      - aligner
+institutions: []
+description: Dépôt pour la validation du cours Bibliothèque numérique I
+project-name: Transcription du Procès-Verbal de la Commission Bel-Air - 1907-1916
+language:
+  - fra
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1907'
+  notAfter: '1916'
+hands:
+  count: less-than-11
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+citation-file-link: https://github.com/mroylem/transcription_Bel-Air/blob/main/CITATION.cff
